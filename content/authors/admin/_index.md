@@ -1,6 +1,7 @@
 ---
 title: Freya Xu (徐凤)
 role: ""
+avatar_filename: 6ad282d70be634d4f7cb76de4e4e39d.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 superuser: true
